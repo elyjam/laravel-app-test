@@ -39,6 +39,5 @@ USER www-data
 
 # Install project dependencies
 
-
 # Change user back to root
 USER root
